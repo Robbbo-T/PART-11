@@ -8,11 +8,11 @@
 
 ```yaml
 ---
-title: "[TITLE OF THE DOCUMENT]"
-author: "[Author Name(s)]"
-date: "YYYY-MM-DD"
-status: "Draft | In Review | Approved"
-doc_code: "[Part Code]-[System Code]-[Subsystem Code]-OV-[Serial Number]-[Revision Code]"
+title: "[Overview]"
+author: "[Amedeo Pelliccia]"
+date: "2025/03/09"
+status: Draft
+doc_code: "[Template]-[csdb]-[metadatos]-OV-[001]-[A]"
 ---
 ```
 
