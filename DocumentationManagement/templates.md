@@ -1,4 +1,4 @@
-# PartXI/DocumentationManagement/Templates — Índice de Plantillas
+Índice de Plantillas
 
 **Ubicación**: `PartXI/DocumentationManagement/Templates/index.md`
 
@@ -25,29 +25,26 @@ Este archivo sirve como **índice principal** para todas las **plantillas** que 
 
 ---
 
-## 3. Plantillas Disponibles
+### Plantillas Disponibles (Available Templates)
 
-1. **OV (Overview)**  
-   - Archivo: `template_OV.md` (ejemplo de documento de visión general).
-   - Uso: Proporcionar un panorama amplio de un subsistema, tema o parte.
+The following document templates are available to ensure consistency across COAFI documentation:
 
-2. **SP (Specification)**  
-   - Archivo: `template_SP.md` (requisitos y características técnicas).
-   - Uso: Detallar especificaciones y criterios de aceptación.
+*   **Overview Document Template (OV)**
+    *   **Document Type Code:** `OV`
+    *   **Description:**  Use this template for creating high-level overview documents for systems, subsystems, processes, or project areas. Provides a general introduction and summary.
+    *   [Overview Document Template (OV)](OV-Template.md)  *(Link to OV-Template.md file)*
 
-3. **AN (Analysis)**  
-   - Archivo: `template_AN.md` (análisis de cargas, estudios de fatiga, etc.).
-   - Uso: Presentar metodologías, resultados e interpretaciones técnicas.
+*   **Specification Document Template (SP)**
+    *   **Document Type Code:** `SP`
+    *   **Description:** Use this template for creating detailed technical specifications for components, systems, materials, or performance requirements.
+    *   [Specification Document Template (SP)](SP-Template.md) *(Link to SP-Template.md file)*
 
-4. **MA (Maintenance)**  
-   - Archivo: `template_MA.md` (procedimientos de mantenimiento e inspección).
-   - Uso: Describir rutinas de revisión, intervalos, y pasos de reparación.
+*   **Test Procedure Template (TE)**
+    *   **Document Type Code:** `TE`
+    *   **Description:** Use this template for documenting test procedures, test setups, and data collection methods for verification and validation activities.
+    *   [Test Procedure Template (TE)](TE-Template.md) *(Link to TE-Template.md file)*
 
-5. **TE (Test Procedure)**  
-   - Archivo: `template_TE.md` (protocolo de pruebas y ensayos).
-   - Uso: Explicar métodos de test, equipamiento, criterios de aprobación, registro de resultados.
-
-*(Estos nombres y categorías son orientativos. Ajustar o ampliar conforme a las necesidades de GAIA AIR.)*
+*   ... *(List other templates: MA, AN, DG, IP, etc.)* ...
 
 ---
 
